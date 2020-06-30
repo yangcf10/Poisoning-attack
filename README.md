@@ -1,7 +1,4 @@
-# Generative Poisoning Attack Method Against Neural Networks
-## Chaofei Yang
-
-Paper is [here](https://arxiv.org/pdf/1703.01340.pdf).
+This project can be used to reproduce the results in the paper [Generative Poisoning Attack Method Against Neural Networks](https://arxiv.org/pdf/1703.01340.pdf).
 
 Poisoning attack project, with direct and generative methods on MNIST and Cifar-10.
 
